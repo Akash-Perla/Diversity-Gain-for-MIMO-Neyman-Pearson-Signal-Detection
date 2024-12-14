@@ -9,7 +9,7 @@ Overall Flow:
 - Then create the test statistic T (Eq 12)
 - Monte Carlo for 100,000 
 
-PS: The threshold values were chosen arbitrarily and may require fine-tuning to achieve a Probability of False Alarm of 0.001, ensuring alignment with the figures provided in the paper. Please feel free to raise any concerns regarding the implementation.
+PS: The threshold values were chosen arbitrarily and may require fine-tuning to achieve a Probability of False Alarm of 0.001, ensuring alignment with the figures provided in the paper. (I did not perform this tuning as it took hours to run on my laptop.) Please feel free to raise any concerns regarding the implementation.
 
 
 
